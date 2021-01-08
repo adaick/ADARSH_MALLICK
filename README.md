@@ -11,7 +11,9 @@ for project details [Click Here](https://github.com/adaick/PyhonProjects/tree/ma
 for project details [Click Here](https://github.com/adaick/Quiz-Application)
 
 # Project 3 -
-## **Spam Classifier –**
+## **Covid Data Analysis Rport–**
+for project details [Click Here](https://github.com/adaick/Covid19-Data-Analysis-Report)
 
 # Project 4 -
-## **_____________ –**
+## **IPL Data Analysis(Through Excel) –**
+for project details [Click Here](https://github.com/adaick/Capstone_Project)
